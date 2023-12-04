@@ -27,14 +27,14 @@ Athena M. Celebrado
 
 # My Personal Favorites 
 
-**The Only Exception**
+### The Only Exception
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-J7J_IWUhls?si=3PpVaw0zMcPPJBEy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**Still Into you**
+### Still Into you
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OblL026SvD4?si=NiPPROkmcfbi5xDZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**Ain't It Fun**
+### Ain't It Fun
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EFEmTsfFL5A?si=aFpppcb0DvQCIM2K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**All I wanted**
+### All I wanted
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W7nmB20qJv4?si=Gwv-Go-NEoLGwgo8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
