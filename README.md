@@ -2,13 +2,14 @@
 Athena M. Celebrado 
 
 ![paramore](https://www.nme.com/wp-content/uploads/2023/02/ParamoreInterview-00s-emo.jpg)
-Paramore was originally formed in 2004 in Franklin, Tennessee, United States. The members then were vocalist Hayley Williams, drummer Zac Farro,. The name "Paramore" came from the name of their first bassist's mother. When they learned the meaning of the word "paramour" (it means "secret lover"), they decided to use the name under Paramore spelling.
+*Paramore was originally formed in 2004 in Franklin, Tennessee, United States. The members then were vocalist Hayley Williams, drummer Zac Farro,. The name "Paramore" came from the name of their first bassist's mother. When they learned the meaning of the word "paramour" (it means "secret lover"), they decided to use the name under Paramore spelling.*
 
 # The Members of Paramore
 
 
 ## Hayley Williams
 ![hayley](https://people.com/thmb/A9hQz5V8PnVoAxyLnyW74Zxi5LM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x252:1001x254)/haley-williams-paramore-111622-50a601ed66844eaf96711a83d4a35899.jpg)
+
 *Williams was discovered in 2003 by managers Dave Steunebrink and Richard Williams, who signed the 14-year-old to a two-year production deal. At the time she was writing pop songs with songwriters in Nashville. Williams was introduced to Atlantic Records A&R Tom Storms through Richard Williams' attorneys Jim Zumwalt and Kent Marcus, and then signed to the label by Jason Flom. The label's original plan for their new artist was to make her a solo pop artist, but Williams objected to this, saying that she wanted to be part of a band and play pop punk music.*
 
 ## Zac Farro
@@ -26,9 +27,14 @@ Paramore was originally formed in 2004 in Franklin, Tennessee, United States. Th
 
 # My Personal Favorites 
 
+**The Only Exception**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-J7J_IWUhls?si=3PpVaw0zMcPPJBEy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+**Still Into you**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OblL026SvD4?si=NiPPROkmcfbi5xDZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+**Ain't It Fun**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EFEmTsfFL5A?si=aFpppcb0DvQCIM2K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+**All I wanted**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W7nmB20qJv4?si=Gwv-Go-NEoLGwgo8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
