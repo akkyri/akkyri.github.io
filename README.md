@@ -23,3 +23,12 @@ Paramore was originally formed in 2004 in Franklin, Tennessee, United States. Th
 
 # Their Music
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/74XFHRwlV6OrjEM0A2NCMF?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+# My Personal Favorites 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-J7J_IWUhls?si=3PpVaw0zMcPPJBEy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OblL026SvD4?si=NiPPROkmcfbi5xDZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EFEmTsfFL5A?si=aFpppcb0DvQCIM2K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
